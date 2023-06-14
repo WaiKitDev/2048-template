@@ -11,6 +11,6 @@ clientApp.get('*', (req, res) => {
 });
 clientApp.listen(port, () => console.log('client listening on port 3000'));
 
-
+console.log('Hello world')
 
 
